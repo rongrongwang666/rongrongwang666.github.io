@@ -7,4 +7,4 @@ Natural Language Processing Reading List
 ## * Discourse Mode Classification
 * Wei Song,Dong Wang,Ruiji Fu,Lizhen Liu,Ting Liu,Guoping Hu, Discourse Mode Identification in Essays
 ## * Sequence Labeling
-* Jie Yang,Shuailong Liang,Yue Zhang, DesignChallengesandMisconceptionsinNeuralSequenceLabeling
+* Jie Yang,Shuailong Liang,Yue Zhang, [DesignChallengesandMisconceptionsinNeuralSequenceLabeling](https://amds123.github.io/2018/06/12/Design-Challenges-and-Misconceptions-in-Neural-Sequence-Labeling/)
