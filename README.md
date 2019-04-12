@@ -8,3 +8,4 @@ Natural Language Processing Reading List
 * Wei Song,Dong Wang,Ruiji Fu,Lizhen Liu,Ting Liu,Guoping Hu, Discourse Mode Identification in Essays
 ## * Sequence Labeling
 * Jie Yang,Shuailong Liang,Yue Zhang, [Design Challenges and Misconceptions in Neural Sequence Labeling](https://amds123.github.io/2018/06/12/Design-Challenges-and-Misconceptions-in-Neural-Sequence-Labeling/)
+* XueZhe Ma,Eduard Hovy,[End-to-endSequenceLabelingviaBi-directionalLSTM-CNNs-CRF](https://arxiv.org/pdf/1603.01354.pdf)
