@@ -9,3 +9,5 @@ Natural Language Processing Reading List
 ## * Sequence Labeling
 * Jie Yang,Shuailong Liang,Yue Zhang, [Design Challenges and Misconceptions in Neural Sequence Labeling](https://amds123.github.io/2018/06/12/Design-Challenges-and-Misconceptions-in-Neural-Sequence-Labeling/)
 * XueZhe Ma,Eduard Hovy,[End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/pdf/1603.01354.pdf)
+## * 语言背景知识
+* 李茜，例谈个性化作文的表达方式，（文学教育上）
