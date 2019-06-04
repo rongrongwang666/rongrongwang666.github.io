@@ -13,7 +13,7 @@ Natural Language Processing Reading List
 ## * Feature engineering
 * Juan Soler-Company，Leo Wanner，[On the Relevance of Syntactic and Discourse Features for Author Profiling and Identification](https://www.researchgate.net/publication/315894402_On_the_Relevance_of_Syntactic_and_Discourse_Features_for_Author_Profiling_and_Identification)
 ## * Language Model
-* Matthew E. Peters,Mark Neumann,Deep contextualized word representations
+* Matthew E. Peters,Mark Neumann, [Deep contextualized word representations](https://arxiv.org/abs/1802.05365?context=cs)
 ## * 语言背景知识
 * 李茜，例谈个性化作文的表达方式，（文学教育·上）
 * 彭简明，论语言表达方式的分类问题，（衡阳师专学报，1988）
