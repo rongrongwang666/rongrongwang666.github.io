@@ -18,4 +18,5 @@ Natural Language Processing Reading List
 * 李茜，例谈个性化作文的表达方式，（文学教育·上）
 * 彭简明，论语言表达方式的分类问题，（衡阳师专学报，1988）
 * 师商榷，记叙文六要素理论并非伪命题——“六大表达方式、六大文体”新论兼与王清老
-
+## * Reading List
+* Chenjun Xiao, Jincheng Mei and Martin Muller[Memory-Augmented Monte Carlo Tree Search](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/Chenjun-Xiao-M-MCTS-aaai18-final.pdf)
