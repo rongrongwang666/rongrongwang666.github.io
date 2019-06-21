@@ -21,6 +21,9 @@ Natural Language Processing Reading List
 ## * AAAI
 * Chenjun Xiao, Jincheng Mei and Martin Muller [Memory-Augmented Monte Carlo Tree Search](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/Chenjun-Xiao-M-MCTS-aaai18-final.pdf)
 * Russell Stewart , Stefano Ermon [Label-Free Supervision of Neural Networks withPhysics and Domain Knowledge](https://arxiv.org/abs/1609.05566)
+## * ACL
+* John Hale♠,4 Chris Dyer♠ Adhiguna Kuncoro♠,♣ Jonathan R. Brennan [Finding Syntax in Human Encephalography with Beam Search](https://arxiv.org/pdf/1806.04127.pdf)
+* Ryan Cotterell & Jason Eisner, Johns Hopkins University [Probabilistic Typology: Deep Generative Models of Vowel Inventories](https://arxiv.org/abs/1705.01684)
 ## * GAN
 * Petar Velickovi, Guillem Cucurul,Arantxa Casanova, etc [GRAPH ATTENTION NETWORKS](https://arxiv.org/abs/1710.10903)
 ## * Text Generation
