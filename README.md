@@ -24,6 +24,9 @@ Natural Language Processing Reading List
 ## * ACL
 * John Hale♠,4 Chris Dyer♠ Adhiguna Kuncoro♠,♣ Jonathan R. Brennan [Finding Syntax in Human Encephalography with Beam Search](https://arxiv.org/pdf/1806.04127.pdf)
 * Ryan Cotterell & Jason Eisner, Johns Hopkins University [Probabilistic Typology: Deep Generative Models of Vowel Inventories](https://arxiv.org/abs/1705.01684)
+## * Some New Task
+* Hannah Rashkin†, Antoine Bosselut†, Maarten Sap†,Kevin Knight‡ and Yejin Choi†§ [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://www.aclweb.org/anthology/P18-1213)
+* Matthew Sims,Jong Ho Park,David Bamman [Literary Event Detection(ACL2019)]
 ## * GAN
 * Petar Velickovi, Guillem Cucurul,Arantxa Casanova, etc [GRAPH ATTENTION NETWORKS](https://arxiv.org/abs/1710.10903)
 ## * Text Generation
