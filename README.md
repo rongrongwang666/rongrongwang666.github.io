@@ -28,7 +28,7 @@ Natural Language Processing Reading List
 * Hannah Rashkin†, Antoine Bosselut†, Maarten Sap†,Kevin Knight‡ and Yejin Choi†§ [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://www.aclweb.org/anthology/P18-1213)
 * Matthew Sims,Jong Ho Park,David Bamman. Literary Event Detection(ACL2019)
 * Lei Gao, Prafulla Kumar Choubey, Ruihong Huang [Modeling Document-level Causal Structures for Event Causal Relation
-Identification] (https://www.aclweb.org/anthology/N19-1179)
+Identification](https://www.aclweb.org/anthology/N19-1179)
 ## * GAN
 * Petar Velickovi, Guillem Cucurul,Arantxa Casanova, etc [GRAPH ATTENTION NETWORKS](https://arxiv.org/abs/1710.10903)
 ## * Text Generation
