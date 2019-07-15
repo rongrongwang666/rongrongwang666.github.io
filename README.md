@@ -20,6 +20,7 @@ Natural Language Processing Reading List
 * 师商榷，记叙文六要素理论并非伪命题——“六大表达方式、六大文体”新论兼与王清老
 * 王菊丽 叙事视角的文体功能
 * 林明玉 浅论小说叙事视角的双重功能
+* 刘静 浅论小说叙事视角的三种类型
 ## * AAAI
 * Chenjun Xiao, Jincheng Mei and Martin Muller [Memory-Augmented Monte Carlo Tree Search](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/Chenjun-Xiao-M-MCTS-aaai18-final.pdf)
 * Russell Stewart , Stefano Ermon [Label-Free Supervision of Neural Networks withPhysics and Domain Knowledge](https://arxiv.org/abs/1609.05566)
