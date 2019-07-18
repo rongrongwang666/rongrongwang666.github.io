@@ -24,6 +24,7 @@ Natural Language Processing Reading List
 * 王西强 论莫言1985年后中短篇小说的叙事视角试验
 * 邢畅 刘著言 基于自建语料库的《生死疲劳》叙事视角转换研究
 * 申丹 对叙事视角分类的再认识
+* 申丹 视角
 ## * AAAI
 * Chenjun Xiao, Jincheng Mei and Martin Muller [Memory-Augmented Monte Carlo Tree Search](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/Chenjun-Xiao-M-MCTS-aaai18-final.pdf)
 * Russell Stewart , Stefano Ermon [Label-Free Supervision of Neural Networks withPhysics and Domain Knowledge](https://arxiv.org/abs/1609.05566)
